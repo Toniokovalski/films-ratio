@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import StarRating from "./StarRating";
+import StarRating from "../castomComponents/StarRating";
 import { useKey } from "../hooks/useKey";
 import { Loader } from "./Loader";
 import { KEY } from "../constants/key";

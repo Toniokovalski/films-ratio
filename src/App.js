@@ -49,6 +49,9 @@ export default function App() {
 
       <Main>
         <Box>
+          {movies.length < 1 && (
+            <h1 className="title">Hit Enter to focus on input</h1>
+          )}
           {isLoading && <Loader />}
           {!isLoading && !error && (
             <MovieList movies={movies} onSelectMovie={handleSelectMovie} />

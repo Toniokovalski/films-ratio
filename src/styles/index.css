@@ -151,6 +151,11 @@ body {
   z-index: 999;
 }
 
+.title {
+  text-align: center;
+  margin-top: 50px;
+}
+
 .list {
   list-style: none;
   padding: 0.8rem 0;
