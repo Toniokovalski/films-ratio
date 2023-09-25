@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/films-ratio/static/css/main.24d4454f.css",
-    "main.js": "/films-ratio/static/js/main.2230fe9e.js",
+    "main.js": "/films-ratio/static/js/main.7e1b2b02.js",
     "static/media/no-film-img.jpg": "/films-ratio/static/media/no-film-img.9c842452a7edab527acd.jpg",
     "index.html": "/films-ratio/index.html",
     "static/media/star.svg": "/films-ratio/static/media/star.7835db198bea070bdfe0dd093710ad09.svg",
     "static/media/filledStar.svg": "/films-ratio/static/media/filledStar.b0f7cd2dee2340d2d3b47d4585ca92bc.svg",
     "main.24d4454f.css.map": "/films-ratio/static/css/main.24d4454f.css.map",
-    "main.2230fe9e.js.map": "/films-ratio/static/js/main.2230fe9e.js.map"
+    "main.7e1b2b02.js.map": "/films-ratio/static/js/main.7e1b2b02.js.map"
   },
   "entrypoints": [
     "static/css/main.24d4454f.css",
-    "static/js/main.2230fe9e.js"
+    "static/js/main.7e1b2b02.js"
   ]
 }
