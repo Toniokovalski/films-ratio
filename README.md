@@ -1,6 +1,7 @@
 # Rate film application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project deployed on Github pages
+https://toniokovalski.github.io/films-ratio/
 
 ## Project description
 
